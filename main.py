@@ -1,5 +1,4 @@
 import sqlite3
-import sockets
 import datetime
 
 def date():
